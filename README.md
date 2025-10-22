@@ -6,10 +6,10 @@
   <em>Building the future, one commit at a time 🚀</em>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishdeshmukhhh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/krishdeshmukhhh?label=Followers&style=social" alt="GitHub followers" />
-</p>
+</p> -->
 
 ---
 
