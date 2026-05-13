@@ -28,7 +28,7 @@
 🎯 Exploring **AI/ML** and **Open Source**  
 ⚡ Fun fact: **LeetCode is my cardio** 💪  
 🌍 Based in **Columbus, Ohio**  
-📫 Reach me: **deshmukh.102@buckeyemail.osu.edu**
+📫 Reach me: **krishdeshmukhhh@gmail.com**
 
 </div>
 
