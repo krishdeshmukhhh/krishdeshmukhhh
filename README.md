@@ -26,10 +26,9 @@ I'm a CS student at Ohio State building AI systems that actually ship, not just 
 
 | Project | What it is |
 |---|---|
-| [Pitchd](https://github.com/krishdeshmukhhh) | Real-time ear-training games, 15K+ visitors / 30K+ page views in 5 months, zero ad spend |
-| [Theo Health](https://github.com/krishdeshmukhhh) | AI health journaling app — 1st place GiveBackHack, 3rd OSU College of Medicine Appathon |
-| guitartuner.dev | Standalone SEO-targeted guitar tuner |
-| Aqualoop | 1st place MakeOHI/O 2026 (Intel Challenge) — closed-loop water reuse system with a Random Forest sidecar model |
+| [Pitchd](https://pitchd.net/) | Real-time ear-training games, 15K+ visitors / 30K+ page views in 5 months, zero ad spend |
+| [Theo Health](https://theohealth.org/) | AI health journaling app — 1st place GiveBackHack, 3rd OSU College of Medicine Appathon |
+| [guitartuner.dev](http://guitartuner.dev/) | Standalone SEO-targeted guitar tuner |
 
 ---
 
