@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://krishdeshmukh.com">krishdeshmukh.com</a> ·
   <a href="https://linkedin.com/in/krish-deshmukh">LinkedIn</a> ·
-  <a href="https://devosu.substack.com">Source Code (newsletter)</a>
+  <a href="https://krishdeshmukh.substack.com/">Source Code (newsletter)</a>
 </p>
 
 ---
