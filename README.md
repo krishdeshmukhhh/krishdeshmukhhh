@@ -1,65 +1,86 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Krish+%F0%9F%91%8B;CS+%40+Ohio+State;Building+RAG+systems+%26+agentic+VLMs;President+%40+DEV" alt="Typing SVG" />
+
+```
+██╗  ██╗██████╗ ██╗███████╗██╗  ██╗
+██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║
+█████╔╝ ██████╔╝██║███████╗███████║
+██╔═██╗ ██╔══██╗██║╚════██║██╔══██║
+██║  ██╗██║  ██║██║███████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+```
+
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=CS+%40+Ohio+State;Researching+agentic+RL+%26+VLMs;Shipping+AI+that+people+use;President+%40+DEV" alt="Typing SVG" />
+
+  <br/>
+
+  <a href="https://krishdeshmukh.com"><img src="https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/krish-deshmukh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://krishdeshmukh.substack.com/"><img src="https://img.shields.io/badge/Source_Code-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
+  <a href="RESUME_LINK"><img src="https://img.shields.io/badge/Resume-1E3A8A?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <a href="mailto:krishdeshmukhhh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+  <br/><br/>
+
+  🎯 <b>Open to Summer 2027 SWE and AI/ML internships</b>
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center"><h3>7s → 4s</h3><sub>RAG latency cut<br/>in clinical use</sub></td>
+    <td align="center"><h3>+33%</h3><sub>trial matching<br/>with GRPO</sub></td>
+    <td align="center"><h3>15K+</h3><sub>Pitchd visitors<br/>zero ad spend</sub></td>
+    <td align="center"><h3>400+</h3><sub>DEV club<br/>members</sub></td>
+    <td align="center"><h3>3</h3><sub>hackathon<br/>podiums</sub></td>
+  </tr>
+</table>
+
+## 👋 About
+
+I'm a CS junior at Ohio State (3.96 GPA) building LLM, RAG, and reinforcement learning systems that actually ship, not just benchmark well.
+
+- 🔬 Research Fellow at **NSF AI-EDGE**, working on multi-turn agentic RL and benchmarking agentic vision-language models on H200 clusters with Amazon collaborators
+- 🏥 Built **DAPHNE**, a RAG chatbot in clinical use, as the sole full stack engineer at **Nationwide Children's Hospital**
+- 🧬 Fine-tuned Qwen2.5 with QLoRA + GRPO on a 2M-sample dataset at OSU's **Comprehensive Cancer Center**
+- 📣 President of **DEV** (Software Engineering Club) and VP of **ACM** at Ohio State
+- ✍️ Writing **Source Code**, a newsletter about the actual CS student experience: research, building, and everything that doesn't make it into a resume
+
+## 🛠️ Currently building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎸 <a href="https://pitchd.net/">Pitchd</a></h3>
+      Real-time ear-training games.<br/>
+      <b>15K+ visitors / 30K+ page views</b> in 5 months, zero ad spend.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://theohealth.org/">Theo Health</a></h3>
+      AI health journaling app.<br/>
+      <b>1st place</b> GiveBackHack · <b>3rd place</b> OSU College of Medicine Appathon.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 JacInTheBlock</h3>
+      VS Code extension with a custom LSP server and transpiler for Jac.<br/>
+      <b>2nd place</b> Social Good, JacHacks 2026.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎛️ <a href="http://guitartuner.dev/">guitartuner.dev</a></h3>
+      Standalone SEO-targeted guitar tuner.
+    </td>
+  </tr>
+</table>
+
+## ⚡ Stack
+
 <p align="center">
-  <a href="https://krishdeshmukh.com">krishdeshmukh.com</a> ·
-  <a href="https://linkedin.com/in/krish-deshmukh">LinkedIn</a> ·
-  <a href="https://krishdeshmukh.substack.com/">Source Code (newsletter)</a>
-</p>
-
----
-
-### About
-
-I'm a CS student at Ohio State building AI systems that actually ship, not just benchmark well.
-
-- 🏥 Building **DAPHNE**, a RAG chatbot in clinical use, as a Software Engineering Intern at **Nationwide Children's Hospital**
-- 🔬 Researching agentic vision-language models at **NSF AI-EDGE**
-- 🎸 Building ear-training and music tools on the side — **Pitchd** hit 15K+ visitors with zero marketing spend
-- 📣 President of **DEV** (Software Engineering Club, 400+ members) at Ohio State
-- ✍️ Writing **Source Code**, a newsletter about the actual CS student experience — research, building, and everything that doesn't make it into a resume
-
----
-
-### Currently building
-
-| Project | What it is |
-|---|---|
-| [Pitchd](https://pitchd.net/) | Real-time ear-training games, 15K+ visitors / 30K+ page views in 5 months, zero ad spend |
-| [Theo Health](https://theohealth.org/) | AI health journaling app — 1st place GiveBackHack, 3rd OSU College of Medicine Appathon |
-| [guitartuner.dev](http://guitartuner.dev/) | Standalone SEO-targeted guitar tuner |
-
----
-
-### Stack
-
-**Languages & Core**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frameworks**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Infra**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-<p align="center">
-  <i>Reach me at krishdeshmukhhh@gmail.com</i>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,supabase&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,aws,docker,git&theme=dark" />
 </p>
