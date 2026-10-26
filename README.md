@@ -35,7 +35,7 @@
     <td align="center"><h3>+33%</h3><sub>trial matching<br/>with GRPO</sub></td>
     <td align="center"><h3>15K+</h3><sub>Pitchd visitors<br/>zero ad spend</sub></td>
     <td align="center"><h3>400+</h3><sub>DEV club<br/>members</sub></td>
-    <td align="center"><h3>3</h3><sub>hackathon<br/>podiums</sub></td>
+    <td align="center"><h3>6</h3><sub>hackathon<br/>podiums</sub></td>
   </tr>
 </table>
 
