@@ -53,6 +53,13 @@ I'm a CS junior at Ohio State (3.96 GPA) building LLM, RAG, and reinforcement le
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🐾 <a href="https://github.com/krishdeshmukhhh/Hack26">Curio</a></h3>
+      A curious cursor companion for students. Local voice tutor for Windows that lives next to your cursor as a pixel pet (cat, fox, or ferret).<br/>
+      <b>1st place General Track</b>, Hack OHI/O 2026 · Pitching at the BOSS Final · Showcasing at Construct I/O Builders Week.
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎸 <a href="https://pitchd.net/">Pitchd</a></h3>
       Real-time ear-training games.<br/>
